@@ -1,0 +1,11 @@
+{
+  "SysId": {
+    "Analysis Type": "Drivetrain",
+    "NetworkTables Settings": {
+      "serverTeam": "4976"
+    },
+    "clientName": "4976_Swerve",
+    "mode": "Client (NT4)",
+    "serverTeam": "4976"
+  }
+}
